@@ -1,0 +1,21 @@
+.toph navbar-inverse navbar-fixed-top{
+  padding: 0;
+  margin: 0;
+  background-color: aqua;
+}
+
+.toph navbar-fixed-top {
+  top: 0;
+  border-width: 0 0 1px;
+}
+.toph navbar-inverse {
+  background-color: aqua;
+  border-color: #080808;
+}
+
+.toph navbar-fixed-bottom, .navbar-fixed-top {
+  position: fixed;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+}
